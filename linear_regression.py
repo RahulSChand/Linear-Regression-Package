@@ -39,7 +39,7 @@ def linear_regr(data_set,featr,rate,iter_num):
     
     
     
-
+#Test Case
 a=np.array([[1.0,1.0],[2.0,10.0],[3.0,10.0],[4.0,10.0]])
 linear_regr(a,1,0.01,200)
 
